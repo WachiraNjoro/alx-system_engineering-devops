@@ -14,3 +14,4 @@ File 12-file_type displays the file type
 File 13 -symbolic_link
 File 14-copy_html copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
 File 100-lets_move moves all files beginning with an uppercase letter to the directory /tmp/u
+File 101-clean_emacs deletes all files in the current working directory that end with the character ~
