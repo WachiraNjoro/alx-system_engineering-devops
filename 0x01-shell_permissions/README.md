@@ -12,3 +12,4 @@ File 10-mirror_permissions always mirrors permissions of olleh to hello
 File 11-directories_permissions adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 File 12-directory_permissions creates a directory called my_dir with permissions 751 in the working directory
 File 13-change_group changes the group owner to school
+File 100-change_owner_and_group changes the owner and the group owner to all files in the working directory
