@@ -10,3 +10,4 @@ File 8-firstdelete deletes file betty
 FIle 9-firstdirdeletion dletes my_first_directory
 File 10-back changes the working directory to the previous one
 File 11-lists displays all the contents of working folder and parent folder
+Filr 12-file_type displays the file type
