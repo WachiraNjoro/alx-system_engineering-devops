@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /tmp/betty /alx-system_engineering_devops/0x00-shell_basics/my_first_directory/betty
+mv /tmp/betty /tmp/my_first_directory/betty
